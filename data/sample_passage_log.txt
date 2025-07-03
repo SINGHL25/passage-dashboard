@@ -1,0 +1,5 @@
+2025-07-03 09:12:26 TR START passage=TP10 device=SU1
+2025-07-03 09:12:45 TR END passage=TP10 device=SU1
+2025-07-03 09:13:01 SU ERROR passage=TP10 device=SU1
+2025-07-03 09:14:10 TR START passage=TP11 device=SU2
+2025-07-03 09:14:40 TR END passage=TP11 device=SU2
